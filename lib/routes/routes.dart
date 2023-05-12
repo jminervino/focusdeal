@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:todo_list/routes/views/splash_screen.dart';
+import 'package:todo_list/views/splash_screen.dart';
 
 const String splashScreen = "splashScreen";
 
