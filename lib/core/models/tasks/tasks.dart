@@ -1,7 +1,7 @@
 import 'package:todo_list/enums/importancia.dart';
 
 class Tasks {
-  int? id;
+  String? id;
   String? categorie;
   String? name;
   int? qtMeta;
@@ -20,8 +20,6 @@ class Tasks {
 
   Tasks.fromJson(Map<String, dynamic> json) {
     id = json['id'];
-    // categorie = TaskCategory.values.firstWhere(
-    //     (e) => e.name.toLowerCase() == json['categorie'].toLowerCase());
     categorie = json['categorie'];
     name = json['name'];
     qtMeta = json['qtd_meta'];

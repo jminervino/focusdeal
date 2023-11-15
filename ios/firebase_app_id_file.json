@@ -1,7 +1,7 @@
 {
   "file_generated_by": "FlutterFire CLI",
   "purpose": "FirebaseAppID & ProjectID for this Firebase app in this directory",
-  "GOOGLE_APP_ID": "1:881574563294:ios:6315e9177a0a14480f614f",
-  "FIREBASE_PROJECT_ID": "focusdail",
-  "GCM_SENDER_ID": "881574563294"
+  "GOOGLE_APP_ID": "1:804531777883:ios:fa854a5768991e25f86a7e",
+  "FIREBASE_PROJECT_ID": "todo-list-9feeb",
+  "GCM_SENDER_ID": "804531777883"
 }

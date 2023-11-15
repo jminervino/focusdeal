@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB6xMF6FTJNUE0924XJSXASAYDcIKpiLWA',
-    appId: '1:881574563294:android:1e38c8e590e9088a0f614f',
-    messagingSenderId: '881574563294',
-    projectId: 'focusdail',
-    storageBucket: 'focusdail.appspot.com',
+    apiKey: 'AIzaSyAQfsAp3PaGcVtIIhTchavFuXKLgsFzCg8',
+    appId: '1:804531777883:android:8eb1d152bfc42924f86a7e',
+    messagingSenderId: '804531777883',
+    projectId: 'todo-list-9feeb',
+    storageBucket: 'todo-list-9feeb.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAzsc7kaxVz4AdpDX_wyRB4WyNe4slhgtw',
-    appId: '1:881574563294:ios:6315e9177a0a14480f614f',
-    messagingSenderId: '881574563294',
-    projectId: 'focusdail',
-    storageBucket: 'focusdail.appspot.com',
-    iosClientId: '881574563294-f31loohsor88hc8m390pnpbuheiejc22.apps.googleusercontent.com',
+    apiKey: 'AIzaSyC3uUq9mvcX_M2G6-_rR8enxv0_MW1s-do',
+    appId: '1:804531777883:ios:fa854a5768991e25f86a7e',
+    messagingSenderId: '804531777883',
+    projectId: 'todo-list-9feeb',
+    storageBucket: 'todo-list-9feeb.appspot.com',
+    iosClientId: '804531777883-cdoacqlag9e4dje4dpp0fog0ohuksrk5.apps.googleusercontent.com',
     iosBundleId: 'todo.com.br.todoList',
   );
 }

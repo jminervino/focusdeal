@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "881574563294",
-    "project_id": "focusdail",
-    "storage_bucket": "focusdail.appspot.com"
+    "project_number": "804531777883",
+    "project_id": "todo-list-9feeb",
+    "storage_bucket": "todo-list-9feeb.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:881574563294:android:1e38c8e590e9088a0f614f",
+        "mobilesdk_app_id": "1:804531777883:android:8eb1d152bfc42924f86a7e",
         "android_client_info": {
           "package_name": "todo.com.br.todo_list"
         }
       },
       "oauth_client": [
         {
-          "client_id": "881574563294-ob1hepjiea6jv1clj0kgpj3v7cpc9pd2.apps.googleusercontent.com",
+          "client_id": "804531777883-vjltb4ma7n48bsla8kpqeb247j5o1at9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB6xMF6FTJNUE0924XJSXASAYDcIKpiLWA"
+          "current_key": "AIzaSyAQfsAp3PaGcVtIIhTchavFuXKLgsFzCg8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "881574563294-ob1hepjiea6jv1clj0kgpj3v7cpc9pd2.apps.googleusercontent.com",
+              "client_id": "804531777883-vjltb4ma7n48bsla8kpqeb247j5o1at9.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

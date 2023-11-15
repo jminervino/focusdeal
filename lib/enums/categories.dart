@@ -10,7 +10,7 @@ enum TaskCategory {
 }
 
 extension TaskCategoryExtension on TaskCategory {
-  String get name => this.toString().split('.').last;
+  String get name => toString().split('.').last;
 }
 
 TaskCategory taskCategoryFromString(String str) {
